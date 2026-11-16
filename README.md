@@ -8,6 +8,11 @@ I have professional experience working as a Computer Instructor and enjoy combin
 
 I'm currently looking for **Software Developer Internships and Entry-Level Developer Opportunities**, particularly in Frontend Development, React.js, and JavaScript.
 
+- 🌐 **Portfolio:** [rupeshkr.vercel.app](https://rupeshkr.vercel.app/)
+- 💻 **GitHub:** [er-rupesh7](https://github.com/er-rupesh7)
+- 📧 **Email:** [er.rupesh7@gmail.com](mailto:er.rupesh7@gmail.com)
+
+
 ---
 
 
